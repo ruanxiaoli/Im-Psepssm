@@ -6,7 +6,8 @@ To make it more convenience and simple for researchers to use the proposed featu
 
 
 
-Fig. 1. The screenshot of SD-Psepssm Builder homepage
+
+ Fig. 1. The screenshot of SD-Psepssm Builder homepage
 The user guide is providing as follows:
 Step1: Open the website and to find and download the DF-Psepssm Builder package, additional, besides the system, the source code of feature extraction and the experimental data used in the paper are also provided to facilitate the users to improvement this method.
 Step2: The local software need not to install. According to the instructions, this can find the ‘dist’ folder, clicking .exe file and staying for several seconds to enter the homepage shown in Figure 5.
