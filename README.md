@@ -1,6 +1,6 @@
 # Im-Psepssm
 
-Im-psepssm is an effective feature extraction method, which has lower dimensional features than tradition Psepssm under the same parameters
+Im-psepssm is an effective feature extraction method, which has lower dimensional features than tradition Psepssm under the same parameters.
 To make it more convenience and simple for researchers to use the proposed feature extraction, a software localization service, namely SD-Psepssm Builder, is developed freely for researcher. The users needn’t have professional programming skills and model construction ability, and only select some follow feature extraction methods base on personal needs and data distribution characteristics to enrich their feature expression of relevant research. It unlike existing servers, which is unlimited the number of protein sequences uploaded by users. The homepage of SD-Psepssm is shown in Fig. 1
  
   ![image](https://github.com/ruanxiaoli/Im-Psepssm/blob/master/image/homepage.png)
