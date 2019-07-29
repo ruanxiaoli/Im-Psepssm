@@ -9,7 +9,7 @@ To make it more convenience and simple for researchers to use the proposed featu
 
     Fig. 1. The screenshot of SD-Psepssm Builder homepage
 The user guide is providing as follows:
-Step1: Open the website and to find and download the DF-Psepssm Builder package, additional, besides the system, the source code of feature extraction and the experimental data used in the paper are also provided to facilitate the users to improvement this method.
-Step2: The local software need not to install. According to the instructions, this can find the ‘dist’ folder, clicking .exe file and staying for several seconds to enter the homepage shown in Figure 5.
-Step3: Click the ‘choose’ button to select PSSM file, then the file name selected by the user will appear in the text box for the user to again confirm the input information. Secondly, based on the data characteristics and requirements, users input parameter   and select the feature expression method in the check box. 
-Step4: Click the ‘Submit’ button. Based on the parameter settings in Step3, each protein sequence will generate a new feature vector and automatically store it in RXL-Feature Extraction file of disk C, and is not required for users to download. 
+    Step1: Open the website and to find and download the DF-Psepssm Builder package, additional, besides the system, the source code of feature extraction and the experimental data used in the paper are also provided to facilitate the users to improvement this method.
+    Step2: The local software need not to install. According to the instructions, this can find the ‘dist’ folder, clicking .exe file and staying for several seconds to enter the homepage shown in Figure 5.
+    Step3: Click the ‘choose’ button to select PSSM file, then the file name selected by the user will appear in the text box for the user to again confirm the input information. Secondly, based on the data characteristics and requirements, users input parameter   and select the feature expression method in the check box. 
+    Step4: Click the ‘Submit’ button. Based on the parameter settings in Step3, each protein sequence will generate a new feature vector and automatically store it in RXL-Feature Extraction file of disk C, and is not required for users to download. 
